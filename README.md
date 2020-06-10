@@ -1,1 +1,2 @@
-# hello-world, my name is Grant and I am new to the coding world!
+# hello-world
+Grant here, I'm moving on up, hop on the for the ride...
